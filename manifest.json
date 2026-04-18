@@ -1,0 +1,22 @@
+{
+  "name": "Cheqqers: Quantum Checkers",
+  "short_name": "Cheqqers",
+  "description": "Premium Quantum Checkers experience with superposition and entanglement.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0f1a",
+  "theme_color": "#6366f1",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
